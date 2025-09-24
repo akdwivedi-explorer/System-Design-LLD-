@@ -4,6 +4,10 @@
 // 2. users can search by title/author/ISBN
 // 3. buy/sell books
 
+// Data Structures Used
+// 1. Array
+// 2. Pair<Book, int>
+
 // Code
 #include <bits/stdc++.h>
 using namespace std;
